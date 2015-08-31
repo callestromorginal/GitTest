@@ -8,6 +8,7 @@ namespace GitTest
 {
     static class Program
     {
+        /// dummy change
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
